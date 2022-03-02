@@ -32,3 +32,5 @@ updated list is shown below after deletion
 
 ![Screenshot (4675)](https://user-images.githubusercontent.com/78440942/156381344-651f9638-5a0b-4bb9-9c3e-5f5943743ad3.png)
 
+
+Deployed Link-- https://cometlabs.netlify.app/  
