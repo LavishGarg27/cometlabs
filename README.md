@@ -1,6 +1,6 @@
 # Cometlabs Assignment 1  
 Next JS Site.  
-Site Work perfectly..  
+Site Work perfectly in Local Host..  
 All the features CRUD operations:  
 Add Data  
 Remove Data  
